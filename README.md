@@ -1,2 +1,2 @@
 # DaDnsPoisoning
-Simple Dns Poisoning script for RubberDucky/arduino modules
+Simple Windows Dns Cache Poisoning script for RubberDucky/arduino modules
